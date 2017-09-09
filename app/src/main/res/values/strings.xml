@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="no_connection">No connection could be established. </string>
+    <string name="no_book_found">No book has been found. </string>
+    <string name="use_other_keywords">Try using other keywords. </string>
+</resources>
+
